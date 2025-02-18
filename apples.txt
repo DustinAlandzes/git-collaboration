@@ -3,3 +3,4 @@ Granny Smith
 Honeycrisp
 Gala
 Red Delicious
+Green Sour
